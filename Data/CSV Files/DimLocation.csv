@@ -1,0 +1,11 @@
+LocationID,City,State,Zone
+L001,Mumbai,Maharashtra,West
+L002,Pune,Maharashtra,West
+L003,Bengaluru,Karnataka,South
+L004,Hyderabad,Telangana,South
+L005,Chennai,Tamil Nadu,South
+L006,Delhi,Delhi,North
+L007,Noida,Uttar Pradesh,North
+L008,Ahmedabad,Gujarat,West
+L009,Kolkata,West Bengal,East
+L010,Jaipur,Rajasthan,North
